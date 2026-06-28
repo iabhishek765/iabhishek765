@@ -10,7 +10,7 @@
 ### 🧠 About Me
 - 🎓 B.Tech student specializing in **AI/ML**
 - 🔭 Currently working on **AI ML Projects**
-- 🌱 Learning **ML, Cloud, Deep Learning, NLP, and MLOps**
+- 🌱 Learning **ML, Cloud, Deep Learning, LLM and NLP**
 - 💡 Interested in building real-world ML applications
 - 📍 Based in **Jaipur, Rajasthan, India**
 
