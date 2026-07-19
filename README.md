@@ -26,10 +26,7 @@
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Machine Learning-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
-**🧠 Deep Learning & Vision**
-<p>
+  
   <img src="https://img.shields.io/badge/Deep Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   &nbsp;
   <img src="https://img.shields.io/badge/CNN-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
