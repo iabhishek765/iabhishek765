@@ -31,7 +31,7 @@
   &nbsp;
   <img src="https://img.shields.io/badge/CNN-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Computer Vision-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Computer Vision-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 </p>
 
 **📊 Data & Visualization**
